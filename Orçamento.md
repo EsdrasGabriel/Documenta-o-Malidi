@@ -96,8 +96,8 @@ Esta proposta apresenta uma versão MVP (Produto Mínimo Viável) do sistema de 
 
 ### **Stack Tecnológica**
 
-- **Backend**: Node.js + Express.js
-- **Frontend**: React.js
+- **Backend**: Nest.js
+- **Frontend**: Next.js
 - **Banco de Dados**: PostgreSQL
 - **Deploy**: Heroku ou plataforma similar
 - **Controle de Versão**: Git/GitHub
